@@ -1,0 +1,1 @@
+{"Hungary": {"currency_rate": 0.3, "sea": false, "schengen": true, "average_temperature": 10}, "Japan": {"currency_rate": 0.61, "sea": true, "schengen": false, "average_temperature": 15}, "Thailand": {"currency_rate": 1.8, "sea": true, "schengen": false, "average_temperature": 30}, "Germany": {"currency_rate": 80, "sea": true, "schengen": true, "average_temperature": 5}}
