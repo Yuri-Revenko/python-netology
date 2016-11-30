@@ -31,7 +31,7 @@ myfile.close
 
 # --------------- load by Json --------------------
 myfile = open(filename, mode='r', encoding='latin-1')
-Json_data = json.load(myfile)
+countries = json.load(myfile)
 
 schengen_countries = set()
 sea_countries = set()
